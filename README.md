@@ -2,7 +2,7 @@
 `sqlu` is a minimalist SQL update query builder package.
 
 ## Why
-The awesome package [SQLC](https://github.com/sqlc/sqlc) can handle most of the SQL job with one exception which is updating tables dynamically. `sqlu` can be used as a complementary package which handles the dynamic update job.
+The awesome package [SQLC](https://github.com/sqlc-dev/sqlc) can handle most of the SQL job with one exception which is updating tables dynamically. `sqlu` can be used as a complementary package which handles the dynamic update job.
 
 ## Example
 
